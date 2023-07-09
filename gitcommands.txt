@@ -1,0 +1,12 @@
+git remote add origin https://github.com/arunchincholi/gitfile1example.git  (link local to remote)
+first create new branch
+git branch branch name
+git checkout <branch name>
+git init
+git add <filename.txt>
+git commit -m "message"
+
+git push -u origin <new_branch_name>
+after pushing its ask the username and password  then only the file will replect on github
+
+before pushing the changes need to take the (pull the changes from the repo)
